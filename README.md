@@ -1,5 +1,5 @@
 # See-u-behind
-This project discuss about the surveillance in daily life. Cameras are present in our surroundings and serve their own purposes, yet they are often ignored. Using handtracking in touchdesigner mediapipe,finger is triggering the under layer of the video.  
+This project discuss about the surveillance in daily life. Cameras are present in our surroundings and serve their own purposes, yet they are often ignored. Using handtracking in touchdesigner mediapipe,finger is triggering the under layer of visual.  
 
 # How to
 1. Download the zip from files. Be aware that the toxes and the mediapipe touchdesigner should be in the same folder.
